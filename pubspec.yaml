@@ -1,6 +1,6 @@
 name: sqflite_entities_generator
 description: sqflite entities generator
-version: 0.0.1
+version: 0.0.2
 homepage:
 publish_to: none
 
