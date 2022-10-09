@@ -12,10 +12,10 @@ dependencies:
   source_gen: ^1.0.0
   analyzer: ^4.3.1
   build: ^2.0.0
-  sqflite_entities:
+  sqflite_entities_annotations:
     git:
       ref: master
-      url: git@github.com:guid-empty/sqflite_entities.git
+      url: git@github.com:guid-empty/sqflite_entities_annotations.git
 
 dev_dependencies:
   test:
