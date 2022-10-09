@@ -21,9 +21,9 @@
     },
     {
       "name": "async",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/async-2.8.2",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/async-2.9.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     },
     {
       "name": "boolean_selector",
@@ -86,12 +86,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "charcode",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "checked_yaml",
       "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/checked_yaml-2.0.1",
       "packageUri": "lib/",
@@ -117,15 +111,15 @@
     },
     {
       "name": "coverage",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/coverage-1.2.0",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/coverage-1.6.1",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.15"
     },
     {
       "name": "crypto",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     },
     {
       "name": "dart_style",
@@ -135,7 +129,7 @@
     },
     {
       "name": "file",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/file-6.1.2",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/file-6.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -219,7 +213,7 @@
     },
     {
       "name": "matcher",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.11",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.12",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -255,7 +249,7 @@
     },
     {
       "name": "path",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/path-1.8.1",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/path-1.8.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -327,7 +321,7 @@
     },
     {
       "name": "source_span",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.2",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/source_span-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -345,7 +339,7 @@
     },
     {
       "name": "sqflite_entities",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/git/sqflite_entities-dde02dde0c773e62200692681f4545386450b692/",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/git/sqflite_entities-e6b9905d9bcf6c4d1036474ec73ad5049eec8ef0/",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -357,9 +351,9 @@
     },
     {
       "name": "stream_channel",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     },
     {
       "name": "stream_transform",
@@ -369,7 +363,7 @@
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -381,25 +375,25 @@
     },
     {
       "name": "term_glyph",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "test",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/test-1.21.1",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/test-1.21.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.9",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.12",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "test_core",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/test_core-0.4.13",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/test_core-0.4.16",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -411,7 +405,7 @@
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -423,9 +417,9 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/vm_service-8.2.2",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/vm_service-9.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.15"
     },
     {
       "name": "watcher",
@@ -458,7 +452,7 @@
       "languageVersion": "2.15"
     }
   ],
-  "generated": "2022-10-09T15:48:45.129357Z",
+  "generated": "2022-10-09T16:13:46.106062Z",
   "generator": "pub",
   "generatorVersion": "2.17.6"
 }
