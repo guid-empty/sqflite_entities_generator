@@ -1,0 +1,20 @@
+name: sqflite_entities_generator
+description: sqflite entities generator
+version: 0.0.1
+homepage:
+publish_to: none
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+  build_runner: ^2.2.0
+  source_gen: ^1.0.0
+  analyzer: ^4.3.1
+  build: ^2.0.0
+  sqflite_entities:
+    path: ./../sqflite_entities
+
+dev_dependencies:
+  test:
+  flutter_lints: ^2.0.1

@@ -1,0 +1,16 @@
+targets:
+  $default:
+    builders:
+      sqflite_entities:
+        generate_for:
+          - example/*
+          - test/models/*
+
+builders:
+  sqflite_entities:
+    import: "package:sqflite_entities/builder.dart"
+    builder_factories: ["getBuilder"]
+    build_extensions: {".dart": [".sql.g.dart"]}
+    auto_apply: dependents
+    build_to: source
+    applies_builders: ["source_gen|combining_builder"]
