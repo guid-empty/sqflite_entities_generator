@@ -5,7 +5,7 @@ import 'package:source_gen/source_gen.dart';
 import 'package:sqflite_entities/sqflite_annotations.dart';
 import 'package:sqflite_entities_generator/src/annotation_helper.dart';
 
-class SqfliteAdapterGenerator
+class SqfliteEntitiesGenerator
     extends GeneratorForAnnotation<SqlEntityDefinition> {
   @override
   Future<String> generateForAnnotatedElement(

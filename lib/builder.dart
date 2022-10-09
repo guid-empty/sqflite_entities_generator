@@ -1,10 +1,10 @@
 import 'package:build/build.dart';
 import 'package:source_gen/source_gen.dart';
-import 'package:sqflite_entities_generator/src/sqlite_adapter_generator.dart';
+import 'package:sqflite_entities_generator/src/sqflite_entities_generator.dart';
 
 Builder getBuilder(BuilderOptions options) => PartBuilder(
       [
-        SqfliteAdapterGenerator(),
+        SqfliteEntitiesGenerator(),
       ],
       '.sql.g.dart',
       header: '''
