@@ -238,13 +238,6 @@
             </list>
           </value>
         </entry>
-        <entry key="ffi">
-          <value>
-            <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/ffi-2.0.1/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="file">
           <value>
             <list>
@@ -274,13 +267,6 @@
             </list>
           </value>
         </entry>
-        <entry key="flutter_driver">
-          <value>
-            <list>
-              <option value="$USER_HOME$/fvm/versions/3.0.5/packages/flutter_driver/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="flutter_lints">
           <value>
             <list>
@@ -295,25 +281,11 @@
             </list>
           </value>
         </entry>
-        <entry key="flutter_test">
-          <value>
-            <list>
-              <option value="$USER_HOME$/fvm/versions/3.0.5/packages/flutter_test/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="frontend_server_client">
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/frontend_server_client-2.1.3/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/frontend_server_client-2.1.2/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="fuchsia_remote_debug_protocol">
-          <value>
-            <list>
-              <option value="$USER_HOME$/fvm/versions/3.0.5/packages/fuchsia_remote_debug_protocol/lib" />
             </list>
           </value>
         </entry>
@@ -439,13 +411,6 @@
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/mime-1.0.2/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/mime-1.0.1/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="mockito">
-          <value>
-            <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/mockito-5.3.2/lib" />
             </list>
           </value>
         </entry>
@@ -631,24 +596,10 @@
             </list>
           </value>
         </entry>
-        <entry key="sqflite_common_ffi">
-          <value>
-            <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite_common_ffi-2.1.1+1/lib" />
-            </list>
-          </value>
-        </entry>
         <entry key="sqflite_entities">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../sqflite_entities/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="sqlite3">
-          <value>
-            <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqlite3-1.8.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/git/sqflite_entities-dde02dde0c773e62200692681f4545386450b692/lib" />
             </list>
           </value>
         </entry>
@@ -828,6 +779,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/git/sqflite_entities-dde02dde0c773e62200692681f4545386450b692/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-34.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-47.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/analyzer-3.2.0/lib" />
@@ -866,7 +818,6 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/devtools_shared-2.11.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/dwds-12.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/fake_async-1.3.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/ffi-2.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/file-6.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/file_testing-3.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/fixnum-1.0.0/lib" />
@@ -898,7 +849,6 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/mime-1.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/mime-1.0.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/mockito-5.3.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/multicast_dns-0.3.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/mustache_template-2.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/native_stack_traces-0.4.5/lib" />
@@ -930,8 +880,6 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.3+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite_common-2.3.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite_common_ffi-2.1.1+1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqlite3-1.8.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sse-4.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/lib" />
@@ -963,10 +911,6 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.1/lib" />
       <root url="file://$USER_HOME$/fvm/versions/3.0.5/bin/cache/pkg/sky_engine/lib" />
       <root url="file://$USER_HOME$/fvm/versions/3.0.5/packages/flutter/lib" />
-      <root url="file://$USER_HOME$/fvm/versions/3.0.5/packages/flutter_driver/lib" />
-      <root url="file://$USER_HOME$/fvm/versions/3.0.5/packages/flutter_test/lib" />
-      <root url="file://$USER_HOME$/fvm/versions/3.0.5/packages/fuchsia_remote_debug_protocol/lib" />
-      <root url="file://$PROJECT_DIR$/../sqflite_entities/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
