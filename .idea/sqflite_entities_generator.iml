@@ -114,9 +114,6 @@
       <excludeFolder url="file://$MODULE_DIR$/.fvm/flutter_sdk/dev/benchmarks/platform_views_layout/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/.fvm/flutter_sdk/dev/benchmarks/platform_views_layout/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/.fvm/flutter_sdk/dev/benchmarks/platform_views_layout/build" />
-      <excludeFolder url="file://$MODULE_DIR$/example/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/example/build" />
-      <excludeFolder url="file://$MODULE_DIR$/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/.fvm/flutter_sdk/dev/integration_tests/android_embedding_v2_smoke_test/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/.fvm/flutter_sdk/dev/integration_tests/android_embedding_v2_smoke_test/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/.fvm/flutter_sdk/dev/integration_tests/android_embedding_v2_smoke_test/build" />

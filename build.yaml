@@ -3,5 +3,5 @@ builders:
     import: "package:sqflite_entities_generator/builder.dart"
     builder_factories: ["getBuilder"]
     build_extensions: {".dart": [".sql.g.dart"]}
-    auto_apply: dependents
+    auto_apply: root_package
     build_to: source
