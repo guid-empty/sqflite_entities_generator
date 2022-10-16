@@ -1,6 +1,6 @@
 builders:
   sqflite_entities_generator:
-    import: "package:sqflite_entities_generator/builder.dart"
+    import: "package:sqflite_entities_generator/sqflite_entities_generator.dart"
     builder_factories: ["getBuilder"]
     build_extensions: {".dart": [".sql.g.dart"]}
     auto_apply: root_package
