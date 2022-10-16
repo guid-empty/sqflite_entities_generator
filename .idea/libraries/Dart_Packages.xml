@@ -38,6 +38,7 @@
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/async-2.9.0/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/async-2.8.2/lib" />
             </list>
           </value>
         </entry>
@@ -45,6 +46,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/boolean_selector-2.1.0/lib" />
             </list>
           </value>
         </entry>
@@ -112,10 +114,19 @@
             </list>
           </value>
         </entry>
+        <entry key="characters">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/characters-1.2.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/characters-1.2.0/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="charcode">
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/charcode-1.3.1/lib" />
             </list>
           </value>
         </entry>
@@ -137,6 +148,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/clock-1.1.0/lib" />
             </list>
           </value>
         </entry>
@@ -151,6 +163,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/collection-1.16.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/collection-1.16.0/lib" />
             </list>
           </value>
         </entry>
@@ -182,6 +195,7 @@
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.2/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/crypto-3.0.1/lib" />
             </list>
           </value>
         </entry>
@@ -231,6 +245,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/fake_async-1.3.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/fake_async-1.3.0/lib" />
             </list>
           </value>
         </entry>
@@ -239,6 +254,7 @@
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/file-6.1.4/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/file-6.1.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/file-6.1.2/lib" />
             </list>
           </value>
         </entry>
@@ -257,6 +273,20 @@
             </list>
           </value>
         </entry>
+        <entry key="flutter">
+          <value>
+            <list>
+              <option value="$USER_HOME$/fvm/versions/3.0.5/packages/flutter/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="flutter_goldens">
+          <value>
+            <list>
+              <option value="$USER_HOME$/fvm/versions/3.0.5/packages/flutter_goldens/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="flutter_lints">
           <value>
             <list>
@@ -268,6 +298,13 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/flutter_template_images-4.0.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="flutter_test">
+          <value>
+            <list>
+              <option value="$USER_HOME$/fvm/versions/3.0.5/packages/flutter_test/lib" />
             </list>
           </value>
         </entry>
@@ -380,6 +417,15 @@
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.12/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.11/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/matcher-0.12.11/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="material_color_utilities">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/material_color_utilities-0.1.4/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/material_color_utilities-0.1.4/lib" />
             </list>
           </value>
         </entry>
@@ -387,6 +433,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/meta-1.7.0/lib" />
             </list>
           </value>
         </entry>
@@ -439,6 +486,7 @@
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path-1.8.2/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path-1.8.1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/path-1.8.1/lib" />
             </list>
           </value>
         </entry>
@@ -460,6 +508,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/platform-3.1.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/platform-3.1.0/lib" />
             </list>
           </value>
         </entry>
@@ -475,6 +524,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/process-4.2.4/lib" />
             </list>
           </value>
         </entry>
@@ -532,6 +582,13 @@
             </list>
           </value>
         </entry>
+        <entry key="sky_engine">
+          <value>
+            <list>
+              <option value="$USER_HOME$/fvm/versions/3.0.5/bin/cache/pkg/sky_engine/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="source_gen">
           <value>
             <list>
@@ -558,13 +615,28 @@
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_span-1.9.1/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/source_span-1.8.2/lib" />
             </list>
           </value>
         </entry>
-        <entry key="sqflite_entities_annotations">
+        <entry key="sqflite">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/git/sqflite_entities_annotations-0d7e46ec52d0707d2e0b7c1bb66b6c93848b0474/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.3+1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="sqflite_common">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite_common-2.3.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="sqflite_entities">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../sqflite_entities/lib" />
             </list>
           </value>
         </entry>
@@ -579,6 +651,7 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/stack_trace-1.10.0/lib" />
             </list>
           </value>
         </entry>
@@ -587,6 +660,7 @@
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.1/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/stream_channel-2.1.0/lib" />
             </list>
           </value>
         </entry>
@@ -602,6 +676,7 @@
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.1/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/string_scanner-1.1.0/lib" />
             </list>
           </value>
         </entry>
@@ -612,11 +687,19 @@
             </list>
           </value>
         </entry>
+        <entry key="synchronized">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/synchronized-3.0.0+3/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="term_glyph">
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.1/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/term_glyph-1.2.0/lib" />
             </list>
           </value>
         </entry>
@@ -633,6 +716,7 @@
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.12/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.9/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/test_api-0.4.9/lib" />
             </list>
           </value>
         </entry>
@@ -656,6 +740,7 @@
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.1/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/typed_data-1.3.0/lib" />
             </list>
           </value>
         </entry>
@@ -670,6 +755,14 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/uuid-3.0.6/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="vector_math">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/vector_math-2.1.2/lib" />
             </list>
           </value>
         </entry>
@@ -736,7 +829,29 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/git/sqflite_entities_annotations-0d7e46ec52d0707d2e0b7c1bb66b6c93848b0474/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/async-2.8.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/boolean_selector-2.1.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/characters-1.2.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/charcode-1.3.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/clock-1.1.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/collection-1.16.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/crypto-3.0.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/fake_async-1.3.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/file-6.1.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/matcher-0.12.11/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/material_color_utilities-0.1.4/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/meta-1.7.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/path-1.8.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/platform-3.1.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/process-4.2.4/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/source_span-1.8.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/stack_trace-1.10.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/stream_channel-2.1.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/string_scanner-1.1.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/term_glyph-1.2.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/test_api-0.4.9/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/typed_data-1.3.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/dart-unpub.taxi.yandex-team.ru/vector_math-2.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-34.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-47.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/analyzer-3.2.0/lib" />
@@ -757,6 +872,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/built_collection-5.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/built_value-8.1.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/built_value-8.4.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/characters-1.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/checked_yaml-2.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/cli_util-0.3.5/lib" />
@@ -806,6 +922,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/logging-1.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.11/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.12/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/material_color_utilities-0.1.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/mime-1.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/mime-1.0.2/lib" />
@@ -840,6 +957,8 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_maps-0.10.10/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_span-1.9.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.3+1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite_common-2.3.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sse-4.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/lib" />
@@ -848,6 +967,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sync_http-0.3.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/synchronized-3.0.0+3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/test-1.20.2/lib" />
@@ -861,6 +981,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/usage-4.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/uuid-3.0.6/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/vm_service-8.2.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/vm_service-9.4.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/vm_snapshot_analysis-0.7.1/lib" />
@@ -873,6 +994,11 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/xml-5.4.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.1/lib" />
+      <root url="file://$USER_HOME$/fvm/versions/3.0.5/bin/cache/pkg/sky_engine/lib" />
+      <root url="file://$USER_HOME$/fvm/versions/3.0.5/packages/flutter/lib" />
+      <root url="file://$USER_HOME$/fvm/versions/3.0.5/packages/flutter_goldens/lib" />
+      <root url="file://$USER_HOME$/fvm/versions/3.0.5/packages/flutter_test/lib" />
+      <root url="file://$PROJECT_DIR$/../sqflite_entities/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

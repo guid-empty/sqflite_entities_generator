@@ -2,7 +2,7 @@ import 'package:analyzer/dart/element/element.dart';
 import 'package:analyzer/dart/element/nullability_suffix.dart';
 import 'package:build/build.dart';
 import 'package:source_gen/source_gen.dart';
-import 'package:sqflite_entities_annotations/sqflite_entities_annotations.dart';
+import 'package:sqflite_entities/sqflite_entities_annotations.dart';
 import 'package:sqflite_entities_generator/src/annotation_helper.dart';
 
 class SqfliteEntitiesGenerator
