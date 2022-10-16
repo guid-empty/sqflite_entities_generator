@@ -2,7 +2,7 @@ name: sqflite_entities_generator
 description: sqflite entities generator used for sql_entities packages,  see more details on https://github.com/guid-empty/sqflite_entities
 version: 0.0.1
 homepage: https://github.com/guid-empty/sqflite_entities_generator
-publish_to: http://pub.dev
+publish_to: https://pub.dev
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
