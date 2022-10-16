@@ -70,7 +70,7 @@ packages:
       name: build_runner
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.2.1"
+    version: "2.3.0"
   build_runner_core:
     dependency: transitive
     description:
@@ -126,7 +126,7 @@ packages:
       name: convert
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.0.2"
+    version: "3.1.0"
   coverage:
     dependency: transitive
     description:
@@ -208,7 +208,7 @@ packages:
       name: http_parser
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.0.1"
+    version: "4.0.2"
   io:
     dependency: transitive
     description:
@@ -306,7 +306,7 @@ packages:
       name: pub_semver
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.1.1"
+    version: "2.1.2"
   pubspec_parse:
     dependency: transitive
     description:
@@ -353,7 +353,7 @@ packages:
       name: source_gen
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.2.5"
+    version: "1.2.6"
   source_map_stack_trace:
     dependency: transitive
     description:
@@ -392,10 +392,10 @@ packages:
   sqflite_entities:
     dependency: "direct main"
     description:
-      path: "../sqflite_entities"
-      relative: true
-    source: path
-    version: "0.0.1"
+      name: sqflite_entities
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.2"
   stack_trace:
     dependency: transitive
     description:
@@ -493,7 +493,7 @@ packages:
       name: watcher
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.1"
+    version: "1.0.2"
   web_socket_channel:
     dependency: transitive
     description:

@@ -88,7 +88,7 @@
         <entry key="build_runner">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build_runner-2.2.1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build_runner-2.3.0/lib" />
             </list>
           </value>
         </entry>
@@ -177,7 +177,7 @@
         <entry key="convert">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/convert-3.0.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/convert-3.1.0/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/convert-3.0.1/lib" />
             </list>
           </value>
@@ -356,7 +356,7 @@
         <entry key="http_parser">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.2/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/lib" />
             </list>
           </value>
@@ -531,6 +531,7 @@
         <entry key="pub_semver">
           <value>
             <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/pub_semver-2.1.2/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/pub_semver-2.1.1/lib" />
             </list>
           </value>
@@ -592,7 +593,7 @@
         <entry key="source_gen">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_gen-1.2.5/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_gen-1.2.6/lib" />
             </list>
           </value>
         </entry>
@@ -636,7 +637,7 @@
         <entry key="sqflite_entities">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../sqflite_entities/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite_entities-0.0.2/lib" />
             </list>
           </value>
         </entry>
@@ -784,6 +785,7 @@
         <entry key="watcher">
           <value>
             <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/watcher-1.0.2/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/watcher-1.0.1/lib" />
             </list>
           </value>
@@ -867,7 +869,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build_config-1.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build_daemon-3.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build_resolvers-2.0.10/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build_runner-2.2.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build_runner-2.3.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/build_runner_core-7.2.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/built_collection-5.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/built_value-8.1.4/lib" />
@@ -881,7 +883,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/collection-1.16.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/completion-1.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/convert-3.0.1/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/convert-3.0.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/convert-3.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/coverage-1.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/coverage-1.6.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1/lib" />
@@ -910,7 +912,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_multi_server-3.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_multi_server-3.2.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/io-1.0.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/js-0.6.4/lib" />
@@ -941,6 +943,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/pool-1.5.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/pub_semver-2.1.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/pub_semver-2.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/pubspec_parse-1.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/pubspec_parse-1.2.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/shelf-1.1.4/lib" />
@@ -952,13 +955,14 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/shelf_static-1.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/shelf_web_socket-1.0.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/shelf_web_socket-1.0.2/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_gen-1.2.5/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_gen-1.2.6/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_map_stack_trace-2.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_maps-0.10.10/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_span-1.9.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.3+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite_common-2.3.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite_entities-0.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sse-4.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/lib" />
@@ -986,6 +990,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/vm_service-9.4.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/vm_snapshot_analysis-0.7.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/watcher-1.0.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/watcher-1.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/web_socket_channel-2.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/web_socket_channel-2.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/webdriver-3.0.0/lib" />
@@ -998,7 +1003,6 @@
       <root url="file://$USER_HOME$/fvm/versions/3.0.5/packages/flutter/lib" />
       <root url="file://$USER_HOME$/fvm/versions/3.0.5/packages/flutter_goldens/lib" />
       <root url="file://$USER_HOME$/fvm/versions/3.0.5/packages/flutter_test/lib" />
-      <root url="file://$PROJECT_DIR$/../sqflite_entities/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

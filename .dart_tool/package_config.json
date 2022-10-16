@@ -57,7 +57,7 @@
     },
     {
       "name": "build_runner",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/build_runner-2.2.1",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/build_runner-2.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -105,7 +105,7 @@
     },
     {
       "name": "convert",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/convert-3.0.2",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/convert-3.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -177,7 +177,7 @@
     },
     {
       "name": "http_parser",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.1",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -261,7 +261,7 @@
     },
     {
       "name": "pub_semver",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/pub_semver-2.1.1",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/pub_semver-2.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -303,7 +303,7 @@
     },
     {
       "name": "source_gen",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/source_gen-1.2.5",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/source_gen-1.2.6",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -339,7 +339,7 @@
     },
     {
       "name": "sqflite_entities",
-      "rootUri": "../../sqflite_entities",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/sqflite_entities-0.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -423,7 +423,7 @@
     },
     {
       "name": "watcher",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/watcher-1.0.1",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/watcher-1.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -452,7 +452,7 @@
       "languageVersion": "2.15"
     }
   ],
-  "generated": "2022-10-16T06:25:44.245865Z",
+  "generated": "2022-10-16T10:22:04.388794Z",
   "generator": "pub",
   "generatorVersion": "2.17.6"
 }
