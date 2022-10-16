@@ -13,10 +13,9 @@ dependencies:
   analyzer: ^4.3.1
   build: ^2.0.0
   sqflite_entities:
-    path: ./../sqflite_entities
-#    git:
-#      ref: master
-#      url: git@github.com:guid-empty/sqflite_entities_annotations.git
+    git:
+      ref: master
+      url: git@github.com:guid-empty/sqflite_entities_annotations.git
 
 dev_dependencies:
   test:
