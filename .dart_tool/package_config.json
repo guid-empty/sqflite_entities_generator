@@ -339,7 +339,7 @@
     },
     {
       "name": "sqflite_entities",
-      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/sqflite_entities-0.0.2",
+      "rootUri": "file:///Users/dushesatwork/.pub-cache/hosted/pub.dartlang.org/sqflite_entities-0.0.2+1",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -452,7 +452,7 @@
       "languageVersion": "2.15"
     }
   ],
-  "generated": "2022-10-16T10:22:04.388794Z",
+  "generated": "2022-10-16T16:12:35.204482Z",
   "generator": "pub",
   "generatorVersion": "2.17.6"
 }
