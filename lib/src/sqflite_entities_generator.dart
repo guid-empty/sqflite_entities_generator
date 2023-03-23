@@ -228,7 +228,7 @@ class SqfliteEntitiesGenerator
   Set<AccessorDescriptor> _getAccessors(ClassElement cls) {
     final accessors = <AccessorDescriptor>{};
 
-    final supertypes = cls.allSupertypes.map((it) => it.element2);
+    final supertypes = cls.allSupertypes.map((it) => it.element);
     for (final type in [cls, ...supertypes]) {
       for (final accessor in type.accessors) {
         if (accessor.isGetter) {

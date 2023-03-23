@@ -21,7 +21,7 @@ FieldDescriptor? getFieldDescriptorForElement(Element element) {
     _checkFactoryFunction(encoder);
     encoderName = encoder.name;
     if (encoder is MethodElement) {
-      encoderName = '${encoder.enclosingElement3.name}.$encoderName';
+      encoderName = '${encoder.enclosingElement.name}.$encoderName';
     }
   }
 
@@ -29,7 +29,7 @@ FieldDescriptor? getFieldDescriptorForElement(Element element) {
     _checkFactoryFunction(decoder);
     decoderName = decoder.name;
     if (decoder is MethodElement) {
-      decoderName = '${decoder.enclosingElement3.name}.$decoderName';
+      decoderName = '${decoder.enclosingElement.name}.$decoderName';
     }
   }
 
