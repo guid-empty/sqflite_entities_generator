@@ -214,6 +214,10 @@ sqflite_common
 2.18
 file:///Users/dushesatwork/.pub-cache/hosted/pub.dev/sqflite_common-2.4.3/
 file:///Users/dushesatwork/.pub-cache/hosted/pub.dev/sqflite_common-2.4.3/lib/
+sqflite_entities
+2.15
+file:///Users/dushesatwork/.pub-cache/hosted/pub.dev/sqflite_entities-0.0.3/
+file:///Users/dushesatwork/.pub-cache/hosted/pub.dev/sqflite_entities-0.0.3/lib/
 stack_trace
 2.18
 file:///Users/dushesatwork/.pub-cache/hosted/pub.dev/stack_trace-1.11.0/
@@ -290,10 +294,6 @@ flutter
 2.17
 file:///Users/dushesatwork/fvm/versions/3.7.5/packages/flutter/
 file:///Users/dushesatwork/fvm/versions/3.7.5/packages/flutter/lib/
-sqflite_entities
-2.15
-file:///Users/dushesatwork/projects/sqflite_extension/sqflite_entities/
-file:///Users/dushesatwork/projects/sqflite_extension/sqflite_entities/lib/
 sqflite_entities_generator
 2.15
 file:///Users/dushesatwork/projects/sqflite_extension/sqflite_entities_generator/
