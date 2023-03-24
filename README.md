@@ -1,6 +1,9 @@
-# postgres_entities
+# sqflite_entities
 
-## to generate postgres models and adapters 
+sqflite entities generator used for sql_entities packages, 
+see more details on https://github.com/guid-empty/sqflite_entities
+
+## to generate sqflite models and adapters 
 
 run the following command:
 

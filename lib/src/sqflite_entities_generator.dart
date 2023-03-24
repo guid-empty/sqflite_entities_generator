@@ -1,11 +1,11 @@
 import 'package:analyzer/dart/element/element.dart';
 import 'package:analyzer/dart/element/nullability_suffix.dart';
 import 'package:build/build.dart';
-import 'package:postgres_entities/postgres_entities_annotations.dart';
-import 'package:postgres_entities_generator/src/annotation_helper.dart';
 import 'package:source_gen/source_gen.dart';
+import 'package:sqflite_entities/sqflite_entities_annotations.dart';
+import 'package:sqflite_entities_generator/src/annotation_helper.dart';
 
-class PostgresEntitiesGenerator
+class SqfliteEntitiesGenerator
     extends GeneratorForAnnotation<SqlEntityDefinition> {
   @override
   Future<String> generateForAnnotatedElement(
@@ -119,11 +119,7 @@ class PostgresEntitiesGenerator
     for (var i = 0; i < fieldDescriptors.length; i++) {
       final fd = fieldDescriptors[i];
 
-      if (fd.isAutoIncrement) {
-        buffer.write('\t\t${fd.sqlFieldName} SERIAL ');
-      } else {
-        buffer.write('\t\t${fd.sqlFieldName} ${fd.sqlFieldType.value}');
-      }
+      buffer.write('\t\t${fd.sqlFieldName} ${fd.sqlFieldType.value}');
 
       if (!fd.isPrimaryKey && !fd.isNullable) {
         buffer.write(' NOT NULL ');
@@ -137,6 +133,10 @@ class PostgresEntitiesGenerator
         buffer
           ..write(' DEFAULT ')
           ..write(fd.defaultValueExpression);
+      }
+
+      if (fd.isAutoIncrement) {
+        buffer.write(' AUTOINCREMENT ');
       }
 
       if (i < (fieldDescriptors.length - 1) || isMultiColumnPrimaryKey) {
@@ -257,16 +257,8 @@ class PostgresEntitiesGenerator
     required bool isNullable,
   }) {
     final isNullableSuffix = isNullable ? '?' : '';
-    if (fieldType == SqlFieldType.double) {
+    if (fieldType == SqlFieldType.real) {
       return 'double$isNullableSuffix';
-    }
-
-    if (fieldType == SqlFieldType.boolean) {
-      return 'bool$isNullableSuffix';
-    }
-
-    if (fieldType == SqlFieldType.datetime) {
-      return 'DateTime$isNullableSuffix';
     }
 
     if (fieldType == SqlFieldType.integer) {

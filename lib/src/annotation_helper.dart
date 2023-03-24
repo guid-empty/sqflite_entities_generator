@@ -1,6 +1,6 @@
 import 'package:analyzer/dart/element/element.dart';
-import 'package:postgres_entities/postgres_entities_annotations.dart';
 import 'package:source_gen/source_gen.dart';
+import 'package:sqflite_entities/sqflite_entities_annotations.dart';
 
 const _sqlEntityChecker = TypeChecker.fromRuntime(SqlEntityDefinition);
 const _sqlFieldChecker = TypeChecker.fromRuntime(SqlField);
